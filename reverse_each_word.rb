@@ -6,5 +6,4 @@ def reverse_each_word(string)
     newArr <<  rword
     
   end
-  newArr
 end
