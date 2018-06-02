@@ -5,4 +5,3 @@ def reverse_each_word(string)
     newArr <<  rword
   end
 end
-reverse_each_word(string)
